@@ -1,4 +1,4 @@
-# AI Companions Book - Code Examples
+# "The Essential Guide to AI Companions: From Technical Foundations to Social Impact" - Chapter 3, Code
 
 This repository contains practical code examples from Chapter 3 of Giada Pistilli's "The Essential Guide to AI Companions: From Technical Foundations to Social Impact" book, demonstrating how to build responsible AI companion systems using open-source models.
 
